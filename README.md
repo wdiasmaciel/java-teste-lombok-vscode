@@ -1,7 +1,7 @@
 # java-teste-lombok-vscode
 
 # Extensões:
-* Clicar no gerenciador de extensões do VS Code ou digitar `CTRL + SHIFT + X` e incluir as extensões abaixo:
+* Clicar no gerenciador de extensões do `VS Code` ou digitar `CTRL + SHIFT + X` e incluir as extensões abaixo:
 
 ![alt Extensao Java](extensaoJava.png)
 
