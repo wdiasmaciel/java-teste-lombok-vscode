@@ -1,5 +1,12 @@
 # java-teste-lombok-vscode
 
+# Extensões:
+* Clicar no gerenciador de extensões do VS Code ou digitar `CTRL + SHIFT + X` e incluir as extensões abaixo:
+
+![alt Extensao Java](extensaoJava.png)
+
+![alt Extensao Lombok](extensaoLombok.png)
+
 ## Download
 * Baixar a bibliotec `Lombok` em:
 ```
