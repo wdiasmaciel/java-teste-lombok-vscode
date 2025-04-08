@@ -8,7 +8,7 @@
 ![alt Extensao Lombok](extensaoLombok.png)
 
 ## Download
-* Baixar a bibliotec `Lombok` em:
+* Baixar a biblioteca `Lombok` em:
 ```
 https://projectlombok.org/download
 ```
