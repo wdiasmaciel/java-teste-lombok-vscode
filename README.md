@@ -68,6 +68,9 @@ public class Main {
 ```
 javac -cp lombok.jar -p lombok.jar Usuario.java Main.java 
 ```
+__OBS__:
+* `-cp`: (__classpath__) usado para classes e bibliotecas no modelo tradicional (não modular).
+* `-p`: (__module-path__) usado para arquivos `JAR` configurados como módulos no novo sistema modular (__Project Jigsaw__).
 
 # Executar
 * Executar o programa usando o comando abaixo:
