@@ -13,7 +13,7 @@
 https://projectlombok.org/download
 ```
 ## Upload
-* Carregar a bibibliotec `Lombok` aqui no `VS Code` do `Codespaces` do `GitHub`.
+* Carregar a bibiblioteca `Lombok` aqui no `VS Code` do `Codespaces` do `GitHub`.
 
 ## Classe Usuário.java
 * Criar a classe `Usuário.java` como apresentado abaixo:
