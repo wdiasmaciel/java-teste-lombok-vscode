@@ -16,7 +16,7 @@ https://projectlombok.org/download
 * Carregar a bibiblioteca `Lombok` aqui no `VS Code` do `Codespaces` do `GitHub`.
 
 ## Classe Usuário.java
-* Criar a classe `Usuário.java` como apresentado abaixo:
+* Criar a classe `Usuário.java` como apresentada abaixo:
 
 ```java
 import lombok.*;
@@ -36,7 +36,7 @@ public class Usuario {
 ```
 
 ## Classe Main.java
-* Criar a classe `Main.java` como apresentado abaixo:
+* Criar a classe `Main.java` como apresentada abaixo:
 
 ```java
 import java.util.Date;
